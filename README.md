@@ -14,5 +14,4 @@
 - 📧 Email: razinashahmuratova@gmail.com
 - 💼 GitHub: [razinashahmuratova](https://github.com/razinashahmuratova)
 
-## Моя статистика GitHub
-![Stats](https://github-readme-stats.vercel.app/api?usrname=username&show_icons=true)
+
