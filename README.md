@@ -15,4 +15,4 @@
 - 💼 GitHub: [razinashahmuratova](https://github.com/razinashahmuratova)
 
 ## Моя статистика GitHub
-![Stats](https://github-readme-stats.vercel.app/api?razinashahmuratova=razinashahmuratova&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?usrname=username&show_icons=true)
