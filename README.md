@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет, я Разина! 👋
 
-<!--
-**razinashahmuratova/razinashahmuratova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
+- 🎓 Студент IT-направления
+- 💻 Изучаю веб-разработку
+- 🌱 В настоящее время учу Git и GitHub
 
-Here are some ideas to get you started:
+## Мои навыки
+- **Языки:** HTML, CSS, JavaScript
+- **Инструменты:** Git, VS Code
+- **Изучаю:** React, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Контакты
+- 📧 Email: razinashahmuratova@gmail.com
+- 💼 GitHub: [username](https://github.com/razinashahmuratova)
+
+## Моя статистика GitHub
+![Stats](https://github-readme-stats.vercel.app/api?razinashahmuratova=razinashahmuratova&show_icons=true)
